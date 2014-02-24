@@ -1,1 +1,2 @@
-I have learned how to do basic things in git - cool! 
+I have learned how to do basic things in git - cool!
+And I have learned how to create branches!
