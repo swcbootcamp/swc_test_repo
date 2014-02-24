@@ -1,3 +1,4 @@
 Instructors for the bootcamp:
 Azalee Bostroem
 Justin Ely
+Stuart Mumford (for SunPy)
