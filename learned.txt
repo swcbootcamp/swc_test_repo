@@ -1,3 +1,5 @@
 I have learned how to do basic things in git - cool!
 And I have learned how to create branches!
 "I even know how to play with branches!" is a bit redundant, but I'll keep it anyways.
+
+On Tuesday, I have learned to collaborate with a partner!
